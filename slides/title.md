@@ -20,12 +20,6 @@
 
 ----
 
-### Et si on vous donnait un peu d'aide :)
-
-* Des questions sur le dernier TP ?
-
-----
-
 ### Qui connait Docker / Kubernetes ?
 
 * :thumbs-up: dans le chat si vous connaissez
